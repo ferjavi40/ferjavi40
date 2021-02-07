@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Portafolio](https://fjdeveloperservice.com/)
-- ⚡ Fun fact: I am from Costa Rica
+- ⚡ Fun fact: I spent my birthday visiting Aschwitz-Birkenau
 
